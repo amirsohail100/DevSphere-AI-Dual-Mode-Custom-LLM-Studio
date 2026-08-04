@@ -43,7 +43,6 @@ You can try the live app here: **[[[Insert Live Link Here]()]]**
 
 ```text
 lexilearn-ai/
-│
 ├── .env                  # Fresh Mistral API Key (Keep it safe)
 ├── .gitignore            # Excludes .env and .venv from GitHub
 ├── requirements.txt      # Lightweight dependencies (Streamlit, LangChain)
