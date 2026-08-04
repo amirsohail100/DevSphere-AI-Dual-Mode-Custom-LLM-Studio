@@ -39,6 +39,24 @@ You can try the live app here: **[[[Insert Live Link Here]()]]**
 
 ---
 
+## 📁 Project Structure
+
+```text
+lexilearn-ai/
+│
+├── .env                  # Fresh Mistral API Key (Keep it safe)
+├── .gitignore            # Excludes .env and .venv from GitHub
+├── requirements.txt      # Lightweight dependencies (Streamlit, LangChain)
+├── backend.py            # LLM Logic & Dynamic Prompts
+├── frontend.py           # Streamlit UI Components
+├── UI_1.py               # UI image Basic chat bot
+├── UI_2.py               # UI image Developer Studio_2.
+├── UI_3.py               # UI image Developer Studio_3.
+└── main.py               # Main Entry Point
+```
+
+---
+
 ## Cloning the Repository
 
 To clone the repository, run the following command:
