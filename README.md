@@ -43,6 +43,12 @@ You can try the live app here: **[[[Insert Live Link Here]()]]**
 
 1. Install Python 3.10 or higher.
 
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 ## 📝 License
