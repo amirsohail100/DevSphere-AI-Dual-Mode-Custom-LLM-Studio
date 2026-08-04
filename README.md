@@ -49,6 +49,12 @@ You can try the live app here: **[[[Insert Live Link Here]()]]**
 pip install -r requirements.txt
 ```
 
+3.  Create a `.env` file in the project root directory and add your Mistral API key:
+
+```bash
+MISTRAL_API_KEY = "your_api_key_here"
+```
+
 ---
 
 ## 📝 License
