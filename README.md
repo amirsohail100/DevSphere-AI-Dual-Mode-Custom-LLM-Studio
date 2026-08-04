@@ -39,13 +39,9 @@ You can try the live app here: **[[[Insert Live Link Here]()]]**
 
 ---
 
-### 🚀 Getting Started
+## 💻 Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/amirsohail100/DevSphere-AI-Dual-Mode-Custom-LLM-Studio.git](https://github.com/amirsohail100/DevSphere-AI-Dual-Mode-Custom-LLM-Studio.git)
-   cd DevSphere-AI
-   ```
+1. Install Python 3.10 or higher.
 
 ---
 
