@@ -49,6 +49,10 @@ You can try the live app here: **[[[Insert Live Link Here]()]]**
 
 ---
 
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## 🙏 Acknowledgements
 
 - Thanks to [Mistral AI](https://mistral.ai/) for providing the Mistral API.
