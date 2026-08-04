@@ -1,0 +1,4 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-mistralai
