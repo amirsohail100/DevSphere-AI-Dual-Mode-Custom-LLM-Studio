@@ -37,7 +37,7 @@ DevSphere AI is a flexible, highly configurable AI chat interface designed for b
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/DevSphere-AI.git](https://github.com/your-username/DevSphere-AI.git)
+   git clone [https://github.com/amirsohail100/DevSphere-AI-Dual-Mode-Custom-LLM-Studio.git](https://github.com/amirsohail100/DevSphere-AI-Dual-Mode-Custom-LLM-Studio.git)
    cd DevSphere-AI
    ```
 
