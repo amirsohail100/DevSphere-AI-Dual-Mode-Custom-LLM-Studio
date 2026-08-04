@@ -1,4 +1,15 @@
+# Web Framework
 streamlit
+
+# Environment Variable Management
 python-dotenv
+
+# LangChain Core Libraries
 langchain-core
+
+# LLM Provider SDKs & Integrations
 langchain-mistralai
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain-deepseek
