@@ -1,5 +1,6 @@
-# Web Framework
-streamlit
+# Web Framework & Stable Middleware
+streamlit==1.38.0
+starlette==0.38.2
 
 # Environment Variable Management
 python-dotenv
