@@ -6,7 +6,7 @@ DevSphere AI is a flexible, highly configurable AI chat interface designed for b
 
 ## 🚀 Live Application
 
-You can try the live app here: **[[[Insert Live Link Here]()]]**
+You can try the live app here: **[[[Insert Live Link Here](https://devsphere-ai-dual-mode-custom-llm-studio-swunqi7fl82zvhcw5ecuw.streamlit.app/)]]**
 
 ---
 
