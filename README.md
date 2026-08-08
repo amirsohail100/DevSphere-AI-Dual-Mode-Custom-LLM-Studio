@@ -92,10 +92,18 @@ streamlit run main.py
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## 📝 Author
+
+## 👤 **Amir Sohail**
+
+---
+
 ## 🙏 Acknowledgements
 
 - Thanks to [Mistral AI](https://mistral.ai/) for providing the Mistral API.
 - Thanks to [LangChain](https://github.com/hwchase17/langchain) for the LangChain library.
 - Thanks to [Streamlit](https://github.com/streamlit/streamlit) for the Streamlit library.
+
+---
 
 DevSphere AI is a dual-mode LLM studio that solves strict API restrictions and lack of developer control in standard chatbots. Users enjoy a clean default AI chat, while developers get total control—switching providers, models, system prompts, temperature, memory trim limits, and using their own API keys dynamically with maximum privacy.
