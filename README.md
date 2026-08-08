@@ -11,7 +11,9 @@ You can try the live app here: **[[[Insert Live Link Here](https://devsphere-ai-
 ### 📸 Application Interface Preview
 
 <p align="center">
-  <img src="UI.png" alt="QuizGenie AI UI Preview" width="100%"/>
+  <img src="UI_1.png" alt=" AI UI Preview" width="100%"/>
+  <img src="UI_2.png" alt="QuizGenie AI UI Preview" width="100%"/>
+  <img src="UI_3.png" alt="QuizGenie AI UI Preview" width="100%"/>
 </p>
 
 ---
